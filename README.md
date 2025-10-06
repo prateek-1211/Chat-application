@@ -84,4 +84,9 @@ CLOUDINARY_API_SECRET=yourCloudinaryApiSecret
 
 NODE_ENV=development
 
+<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/b8b86098-b64b-4fe9-9969-b06981e24151" />
+<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/8fe11767-5068-460b-bb57-3e273207aabc" />
+<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/51c736fa-5beb-4093-ae44-636f024c5638" />
+
+
 
